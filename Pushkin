@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="ru">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="icon" type="image/png" href="/static/landing/img/favicon.ico">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <title>Russian DALL-E: Унылая пора! Очей очарованье! Приятна мне твоя прощальная краса — Люблю я пышное природы увяданье, В багрец и в золото одетые леса, В их сенях ветра шум и свежее дыханье, И мглой волнистою покрыты небеса, И редкий солнца луч, и первые морозы, И отдаленные седой зимы угрозы.</title>
+        <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+        <meta name="viewport" content="width=device-width" />
+        <meta property="og:title" content="Унылая пора! Очей очарованье! Приятна мне твоя прощальная краса — Люблю я пышное природы увяданье, В багрец и в золото одетые леса, В их сенях ветра шум и свежее дыханье, И мглой волнистою покрыты небеса, И редкий солнца луч, и первые морозы, И отдаленные седой зимы угрозы." />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="http://rudalle.ru/check_kandinsky2/1b4c167aa98b4e259d887140f3b32930" />
+        <meta
+          property="og:image"
+          content="https://img2.rudalle.ru/images/1b/4c/16/1b4c167aa98b4e259d887140f3b32930_00000.jpg"
+        />
+        <meta property="og:description" content="Смотрите какое изображение сгенерировала ruDALL-E"/>
+        <meta property="og:site_name" content="ruDALL-E"/>
